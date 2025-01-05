@@ -175,3 +175,5 @@ knip.json
 # Schemathesis temporary files
 .hypothesis/
 .cassettes/
+
+.scannerwork/
